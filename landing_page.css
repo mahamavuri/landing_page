@@ -1,0 +1,107 @@
+
+.d1{
+    background-color: black;
+    width:100%;
+    height:600px;
+    text-align: right;
+   }
+.d1 h1{
+    font-size: 50px;
+    color: white;
+    padding-top:100px;
+    padding-right: 40px;
+   }
+.d1 h2{
+    font-size: 20px;
+    color:white;
+    padding-right: 20px;
+   }
+.d1 button{
+    width:100px;
+    height:30px;
+    background-color: coral;
+    color:white;
+    border-radius: 10px;
+    text-align: center;
+    float:center;
+   }
+.d2{
+    background-color: coral;
+    width:100%;
+    height:650px;
+   }
+.d2 h1{
+    font-size:50px;
+    text-align: center;
+    color:white;
+    padding-top: 20px;
+   }
+.d2 h4{
+    color:white;
+   }
+.whole{
+    display:flex;
+    justify-content: space-around;
+   }
+.whole div{
+    width:20%;
+    height:200px;
+    background-color: white;
+    padding:20px;
+   }
+.whole1{
+    display:flex;
+    justify-content: space-around;
+   }
+.whole1 div{
+    width:20%;
+    height:200px;
+    background-color: white;
+    padding:20px;
+   }
+.d3{
+    background-color: coral;
+    width:100%;
+    height:450px;
+    text-align: center;
+    padding:10px;display: flex;
+    justify-content: space-around;
+  }
+.d3 img{
+    width:40px;
+    height:40px;
+    padding:30px;
+    }
+.d4{
+    float:center;
+    padding:30px;
+    width:25%;
+}
+.d5{
+    float:right;
+    padding:50px;
+    width:25%;
+  }
+.c2{
+    background-color: black;
+    height:400px;
+    width:100%;
+    padding:10px;
+    background-image: url('https://img.freepik.com/premium-photo/bakery-background-front-view-bakery-shop-social-media-advertisement-banners-posters_809816-2.jpg');
+    background-position: center;
+    background-size: contain;
+     }
+.c1{
+    display:flex;
+    height:300px;
+    width:100%;
+    justify-content: space-around;
+    padding:40px;
+    }
+.c1 div{
+    background-color: white;
+    width:250px;
+    height:200px;
+    padding:20px;
+     }
+    
